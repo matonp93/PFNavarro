@@ -1,0 +1,18 @@
+/* Estilo para el icono de carrito */
+.BsCart2 {
+    font-size: 24px; /* Tamaño del icono */
+    color: #333; /* Cambia el color del icono según tus preferencias */
+  }
+  
+  /* Estilo para el contador del carrito */
+  span {
+    background-color: #ff6600; /* Color de fondo del contador */
+    color: #fff; /* Color del texto del contador */
+    border-radius: 50%; /* Hace que el contador tenga forma circular */
+    padding: 5px 10px; /* Espaciado del contador */
+    font-size: 14px; /* Tamaño de fuente del contador */
+    position: relative;
+    top: -15px; /* Ajusta la posición vertical del contador según tus necesidades */
+    left: 5px; /* Ajusta la posición horizontal del contador según tus necesidades */
+  }
+  

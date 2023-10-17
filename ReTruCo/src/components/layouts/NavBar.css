@@ -1,0 +1,19 @@
+.NavBar {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+}
+
+.Categories {
+  display: flex;
+  justify-content: space-around;
+}
+
+.ActiveOption {
+  font-weight: bold;
+  color: red;
+}
+
+.Option {
+  color: #000;
+}

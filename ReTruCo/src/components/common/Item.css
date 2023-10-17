@@ -1,0 +1,61 @@
+/* Estilo para el contenedor del artículo */
+.CardItem {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    background-color: #fff;
+  }
+  
+  /* Estilo para el encabezado */
+  .Header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px 5px 0 0;
+  }
+  
+  /* Estilo para el título */
+  .ItemHeader {
+    font-size: 24px;
+  }
+  
+  /* Estilo para la imagen */
+  .ItemImg {
+    width: 40%;
+    max-height: 500px;
+    object-fit: cover;
+    border-radius: 5px;
+  }
+  
+  /* Estilo para la sección de información */
+  .Info {
+    font-size: 16px;
+    margin: 10px 0;
+  }
+  
+  /* Estilo para el pie de página */
+  .Itemfooter {
+    background-color: #333;
+    padding: 10px;
+    border-radius: 0 0 5px 5px;
+  }
+  
+  /* Estilo para el botón */
+  .Option {
+    background-color: #ff6600;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  /* Estilo para el botón al pasar el mouse por encima */
+  .Option:hover {
+    background-color: #ff9933;
+  }
+  
